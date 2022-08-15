@@ -19,6 +19,15 @@
     padding: 0px
 }
 
-body {
-  color: red;
+h1 {
+  color: rgb(34, 33, 33);
+}
+
+label {
+  font-size: 13px;
+}
+
+p {
+  font-size: 20px;
+  color: rgb(118, 104, 180);
 }
